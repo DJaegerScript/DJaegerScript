@@ -1,7 +1,26 @@
-### Hi there 👋
+# Who Am I?
 
-As a software engineer, I recognized my interest in web development when I tried editing my Blogspot theme in 2014. Later, in 2019, I started studying software engineering through academic coursework and self-study. I have gained proficiency in several programming languages since then. 
+I’m passionate about software engineering, especially if it means making an impact on
+business-related problems. I’ve been doing software engineering since 2019 and professionally
+dive into the real world in 2020.
 
-Additionally, I also deepened my understanding of software testing and automation from my prior internship and software infrastructure from my campus projects.
+Since my first time engineering software, I’ve learned and applied many technologies, principles,
+and thoughts from my seniors, colleagues, and friends.
 
-As I said before, during my time as a college student, I had many campus projects and I led some of them. These projects have provided me with valuable experience in project management, collaboration, and problem-solving.
+During my studies in college, I’ve led several IT projects for an event held by my faculty. Besides
+that, I’ve frequently taken on external campus projects.
+
+Still, It is a long way to go for me. Thus, I am ready for a bigger challenge as a software engineer
+to make an impact on your organization’s business.
+
+# Experience
+**IT Development Manager @[COMPFEST](compfest.id)**
+
+**Nov 2022 - Present · 1 yr**
+- Managed a team of software engineers, UI/UX designers, and automation engineers.
+- Proposed and implemented an automation engineer team initiative to improve the automation process and app testing.
+- Conducted technology research for the team's projects.
+- Established and managed design and development timelines for the team.
+- Ensured effective communication between team members.
+- Set up deployment of the development and production servers for the app on AWS.
+- Maintained link shortener and certificate validator app initiative.
