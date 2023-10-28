@@ -14,7 +14,7 @@ Still, It is a long way to go for me. Thus, I am ready for a bigger challenge as
 to make an impact on your organization’s business.
 
 # My Experiences
-**IT Development Manager @[COMPFEST](compfest.id)**
+**IT Development Manager [@COMPFEST](compfest.id)**
 
 **Nov 2022 - Present · 1 yr**
 - Managed a team of software engineers, UI/UX designers, and automation engineers.
