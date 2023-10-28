@@ -13,10 +13,12 @@ that, I’ve frequently taken on external campus projects.
 Still, It is a long way to go for me. Thus, I am ready for a bigger challenge as a software engineer
 to make an impact on your organization’s business.
 
-# My Experiences
-**IT Development Manager [@COMPFEST](compfest.id)**
+# My Experiences 
+**[@COMPFEST](compfest.id)**  
+Depok, West Java, IndonesiaDepok, West Java, Indonesia
 
-**Nov 2022 - Present · 1 yr**
+**IT Development Manager**  
+**Nov 2022 - Present · 1 year**  
 - Managed a team of software engineers, UI/UX designers, and automation engineers.
 - Proposed and implemented an automation engineer team initiative to improve the automation process and app testing.
 - Conducted technology research for the team's projects.
@@ -24,3 +26,7 @@ to make an impact on your organization’s business.
 - Ensured effective communication between team members.
 - Set up deployment of the development and production servers for the app on AWS.
 - Maintained link shortener and certificate validator app initiative.
+
+**Software EngineerSoftware Engineer**  
+**Feb 2022 - Nov 2022 · 10 months**  
+- Developed the Academy Bootcamp landing page and Challenges, CV Review, and Marketplace features.
