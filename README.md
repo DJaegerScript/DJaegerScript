@@ -13,20 +13,7 @@ that, I’ve frequently taken on external campus projects.
 Still, It is a long way to go for me. Thus, I am ready for a bigger challenge as a software engineer
 to make an impact on your organization’s business.
 
-# My Experiences 
-**[@COMPFEST](https://compfest.id)**  
-Depok, West Java, IndonesiaDepok, West Java, Indonesia
-
-**IT Development Manager**  
-**Nov 2022 - Present · 1 year**  
-- Managed a team of software engineers, UI/UX designers, and automation engineers.
-- Proposed and implemented an automation engineer team initiative to improve the automation process and app testing.
-- Conducted technology research for the team's projects.
-- Established and managed design and development timelines for the team.
-- Ensured effective communication between team members.
-- Set up deployment of the development and production servers for the app on AWS.
-- Maintained link shortener and certificate validator app initiative.
-
-**Software EngineerSoftware Engineer**  
-**Feb 2022 - Nov 2022 · 10 months**  
-- Developed the Academy Bootcamp landing page and Challenges, CV Review, and Marketplace features.
+# Recent Experiences 
+- **IT Development Manager [@COMPFEST](https://compfest.id)** (**Nov 2022 - Present · 1 year**)  
+- **Software Engineer [@Gradient](https://gradient.academy)** (**Jun 2023 - Sep 2023 · 4 months**)
+- **Automation Software Engineer in Test [@Virgo](https://virgoku.id)** (**May 2022 - May 2023 · 1 year 1 month**)
