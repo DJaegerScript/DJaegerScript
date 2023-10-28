@@ -1,4 +1,4 @@
-# Who Am I?
+# About Me
 
 I’m passionate about software engineering, especially if it means making an impact on
 business-related problems. I’ve been doing software engineering since 2019 and professionally
@@ -13,7 +13,7 @@ that, I’ve frequently taken on external campus projects.
 Still, It is a long way to go for me. Thus, I am ready for a bigger challenge as a software engineer
 to make an impact on your organization’s business.
 
-# Experience
+# My Experiences
 **IT Development Manager @[COMPFEST](compfest.id)**
 
 **Nov 2022 - Present · 1 yr**
