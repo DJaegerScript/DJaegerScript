@@ -14,6 +14,6 @@ Still, It is a long way to go for me. Thus, I am ready for a bigger challenge as
 to make an impact on your organization’s business.
 
 # Recent Experiences 
-- **IT Development Manager [@COMPFEST](https://compfest.id)** (**Nov 2022 - Present · 1 year**)  
-- **Software Engineer [@Gradient](https://gradient.academy)** (**Jun 2023 - Sep 2023 · 4 months**)
-- **Automation Software Engineer in Test [@Virgo](https://virgoku.id)** (**May 2022 - May 2023 · 1 year 1 month**)
+- **IT Development Manager [@COMPFEST](https://compfest.id)** (Nov 2022 - Present · 1 year)  
+- **Software Engineer [@Gradient](https://gradient.academy)** (Jun 2023 - Sep 2023 · 4 months)
+- **Automation Software Engineer in Test [@Virgo](https://virgoku.id)** (May 2022 - May 2023 · 1 year 1 month)
